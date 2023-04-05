@@ -1,3 +1,3 @@
 # gitRepo
 
-Making this repo to understand all the features of github.
+Making this repository to understand all the features of github.
